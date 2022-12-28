@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 180%;
+    color:#40514e;
+}
+h1
+{
+    color: #66bfbf;
+ margin: 50px  auto 0 auto ; 
+ font-family: 'Sacramento', cursive; 
+ font-size:5.625rem;
+ line-height:2;
+}
+h2{
+    color: #13f0cbea;
+    font-family:'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 0.625rem;
+    font-weight: normal;
+}
+h3{
+    color:#11999e;
+    font-family:'Montserrat', sans-serif;
+    font-weight: normal;
+}
+.pro
+{
+    text-decoration: underline;
+    color: #11999e;
+}
+.grammar
+{
+    color: #11999e;
+}
+
+hr{
+    border: dotted #CCD6A6 0.375rem;
+    border-bottom: none;
+    width: 4%;
+    margin:  6.25rem auto ;
+}
+.top-container{
+    background-color:azure;
+    position: relative;
+    padding-top: 6.25rem;
+}
+.middle-container
+{
+    margin: 6.25rem 0;
+}
+.bottom-container
+{
+background-color: #11999e;
+padding: 2.5rem 1.25rem 0;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 21.875rem;
+    top: 6.25rem;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 18.125rem;
+    bottom:25rem;
+}
+.a{
+color: #11999e;
+font-family:'Montserrat', sans-serif;
+margin: 0.625rem 1.25rem;
+text-decoration:none;
+}
+a:hover
+{
+    color: #050303;
+}
+.skill-row
+{
+    width: 70%;
+    margin: 6.25rem auto 6.25rem auto;
+    text-align: left;
+}
+.p
+{
+    line-height:1.5;
+}
+.displaypic{
+    width: 20%;
+    position: relative;
+
+}
+.skills-pto{
+    width: 25%;
+    float: left;
+    margin-right: 1.875rem;
+}
+.solver{
+    width: 25%;
+    float: right;
+    margin-left: 1.875rem;
+}
+.hacking{
+    width: 25%;
+    float: left;
+    margin-right: 1.875rem;
+}
+
+.intro{
+    width: 30%;
+margin: auto;
+color:black;
+}
+.contact-msg{
+    width: 40%;
+    margin: 2.5rem auto 3.75rem;
+}
+    .copyright{
+        color: #eaf6f6;
+        font-size: 0.75rem;
+        padding: 1.25rem;
+        font-family: 'Montserrat', sans-serif;
+      }
+
+.btn {
+    background-color: #68B984; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 0.9375rem 2rem; /* Some padding */
+    text-align: center; 
+    text-decoration: peru; 
+    display: inline-block;
+    font-size: 1rem; 
+    font-style: inherit;
+  }
+  .btn:is(:hover,focus){
+    background: #b91b97;
+  }
+
+  
